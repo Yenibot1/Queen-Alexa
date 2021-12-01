@@ -1,9 +1,9 @@
 {
 "name": "Queen-Alexa",
   "description": "Lightweight WhatsApp Bot",
-  "depo" : "https://github.com/HYPER-MOD/Queen-Alexa" ,
+  "depo" : "https://github.com/Yenibot1/Queen-Alexa" ,
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+  "anahtar kelimeler" : [ "bot" , "whatsapp" , "whatsapp-bot" ],
 
     "buildpacks": [
 
